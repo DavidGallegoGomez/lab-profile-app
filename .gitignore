@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+/profile-api/node_modules
+/profile-web/node_modules
 
 # testing
 /coverage
