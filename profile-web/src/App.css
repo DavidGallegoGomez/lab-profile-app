@@ -1,0 +1,11 @@
+.home-page {
+  background-color: rgba(151, 243, 212, 0.897);
+  height: 100vh;
+}
+
+.home-card {
+  background-image: url("./oval-bg.png");
+  background-size: cover;
+  width: 300px;
+  height: 300px;
+}
